@@ -279,16 +279,6 @@ Week 3-4:  高级主题和实战
 
 ---
 
-## 📞 联系方式
-
-如果您有任何问题或建议，欢迎通过以下方式联系：
-
-- 📧 Email: [your-email@example.com]
-- 💬 Issues: [GitHub Issues](https://github.com/your-repo/issues)
-- 🐦 Twitter: [@your-twitter](https://twitter.com/your-twitter)
-
----
-
 ## 🙏 致谢
 
 感谢OpenManus项目的开发者和贡献者，为AI智能体技术的发展做出了重要贡献。
